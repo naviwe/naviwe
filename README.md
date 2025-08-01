@@ -3,9 +3,9 @@
 I'm a Java developer 
 
 ## 🎓 Education:
-- Baku State University — BSc in Computer Science  
 - Odlar Yurdu University — Currently pursuing a degree in International Business  
 - Yandex Practicum — Advanced Java Backend Development Program Graduate
+- Baku State University — BSc in Computer Science  
   
 ## 🚀 Tech Stack
 - **Languages**: Java (Java 21), SQL
