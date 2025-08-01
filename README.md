@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Timur Novotorjin
 
-I'm a Java developer with a background in Computer Science and a graduate of the **Yandex Practicum Advanced Java Backend Development** program. Currently, I'm studying **International Business** at Odlar Yurdu University and continuing to deepen my backend skills.
+I'm a Java developer 
 
+## 🎓 Education:
+- Baku State University — BSc in Computer Science  
+- Odlar Yurdu University — Currently pursuing a degree in International Business  
+- Yandex Practicum — Advanced Java Backend Development Program Graduate
+  
 ## 🚀 Tech Stack
 - **Languages**: Java (Java 21), SQL
 - **Frameworks**: Spring, Spring Boot, Hibernate
@@ -11,7 +16,15 @@ I'm a Java developer with a background in Computer Science and a graduate of the
 - **Architecture**: REST APIs, Microservices, API Gateway
 - **Messaging**: Kafka, RabbitMQ
 - **Data Formats**: JSON, YAML, XML, CSV, Protocol Buffers, Avro
+  
+## 💼 Experience:
+- Participated in collaborative, team-based projects during Yandex Practicum, implementing microservices, RESTful APIs, and database integrations.
 
+## 🌐 Languages:
+- English: Intermediate
+- Russian: Native
+- Azerbaijani: Fluent
+  
 📫 **Let's connect**:
 - [[LinkedIn](https://www.linkedin.com/in/timur-novotorzhin-735251365)]
 - Email: timurnovotorzhin@yandex.kz
